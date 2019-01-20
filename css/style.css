@@ -1,0 +1,112 @@
+/*box shadow start*/
+.box-a{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 10px 0px orange;
+}
+.box-b{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 10px 0px orange;
+}
+.box-c{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 0px 10px orange;
+}
+.box-d{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 10px 10px 5px orange;
+}
+.box-e{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 0px 0px 5px 10px orange;
+}
+.box-f{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 0px 0px 5px 10px orange, 0px 0px 5px 10px orange;
+}
+.box-g{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: 0px 0px 5px 10px orange, 0px 0px 5px 10px orange, 0px 0px 5px 10px orange;
+}
+.box-h{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 10px 0px orange;
+}
+.box-i{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 10px 0px orange;
+}
+.box-j{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 0px 10px orange;
+}
+.box-k{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 10px 10px 5px orange;
+}
+.box-l{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 0px 0px 5px 10px orange;
+}
+.box-m{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 0px 0px 5px 10px orange, 0px 0px 5px 10px orange;
+}
+.box-n{
+	background-color: green;
+	min-height: 200px;
+	width: 30%;
+	box-shadow: inset 0px 0px 5px 10px orange, 0px 0px 5px 10px orange, 0px 0px 5px 10px orange;
+}
+/*box shadow end*/
+/*text shadow start*/
+.text-a{
+	color: purple;
+	text-shadow: 5px 0px;
+}
+.text-b{
+	color: purple;
+	text-shadow: 5px 5px;
+}
+.text-c{
+	color: purple;
+	text-shadow: 5px 5px 10px;
+}
+.text-d{
+	color: purple;
+	text-shadow: 5px 5px 10px green;
+}
+.text-e{
+	color: purple;
+	text-shadow: 5px 5px 10px green,  5px 5px 10px green;
+}
+.text-f{
+	color: purple;
+	text-shadow: 5px 5px 10px green,  5px 5px 10px green, 5px 5px 10px green;
+}
+/*text shadow end*/
